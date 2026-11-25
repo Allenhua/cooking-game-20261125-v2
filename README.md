@@ -1,8 +1,8 @@
-# cooking-game-20261125
+# cooking-game-20261125-v2
 
 [![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Allenhua/cooking-game-20261125/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Allenhua/cooking-game-20261125/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/Allenhua/cooking-game-20261125-v2/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/Allenhua/cooking-game-20261125-v2/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 Sizzle & Serve is a fast, friendly burger-bistro cooking game: run a 3-minute shift, grill patties, chop veggies, stack burgers to match the order board, and serve each dish before its ticket runs out — chain quick serves into combos while the lunch rush speeds up.
 
